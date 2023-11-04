@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T07:25:49.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.8" etag="0gATVe_gEF5pisXUshnk" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T07:30:51.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="JIO-rO1JnYZF8mhnIy4z" version="22.0.8" type="github">
   <diagram name="Page-1" id="huXib3_UpxiIcokg_2-L">
-    <mxGraphModel>
+    <mxGraphModel dx="1400" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A3nxTUrVnWNC7ZoqORWL-1" value="NDI Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="A3nxTUrVnWNC7ZoqORWL-2" value="Switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="A3nxTUrVnWNC7ZoqORWL-3" value="Rasberry Pi 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3nxTUrVnWNC7ZoqORWL-4" value="Rasberry Pi 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
